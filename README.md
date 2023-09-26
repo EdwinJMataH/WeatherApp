@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+## Weather App 🌡️
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This mini project consists of being able to select any city on the planet and be able to obtain its current climatic condition in which it is located at that moment, for this purpose APIs such as [Univeral Tutorial](https://www.universal-tutorial.com/) and [OpenWeather](https://openweathermap.org/).
 
-## Recommended IDE Setup
+<p align='center'>
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+![WeatherApp](public/img/image-app.png) 
